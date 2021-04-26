@@ -71,3 +71,15 @@ footer {
     margin: 0%;
     margin-top: 14.5px;
 }
+#loginas {
+    background-color: #2160ad;
+    border-radius: 28px;
+    -moz-border-radius:28px;
+    -webkit-border-radius:28px;
+    text-decoration: none;
+    color: #ffffff;
+    padding: 10px 26px;
+    font-size: 17px;
+    float: left;
+    margin-left: 50px;
+}
